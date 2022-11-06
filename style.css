@@ -1,0 +1,16 @@
+h1{ 
+    color: darkmagenta;
+    font-size: larger;
+    font-style: italic;
+    text-decoration: underline;
+    border: 5px solid coral;
+    border-radius: 50px;
+    font-size: 5rem;
+    text-align: center;
+}
+body{
+    background-color: rgb(228, 179, 228);
+    @media screen (max width:700px) and (orientation: landscape)
+    {
+        
+    }
